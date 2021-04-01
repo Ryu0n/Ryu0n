@@ -3,7 +3,7 @@
 * Name
 Hong Sung Kyu
 
-* Education
+* Education  
 HKNU (Han Kyung National Univesity) : Computer Engineering  
 Kookmin University Graduate School of Software Technology : Artifical Intelligence  
 
