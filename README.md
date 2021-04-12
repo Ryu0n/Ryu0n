@@ -7,7 +7,7 @@
 **HKNU (Han Kyung National Univesity) : Computer Engineering**  
 **Kookmin University Graduate School of Software Technology : Artifical Intelligence**  
 
-* Portfolid  
+* Portfolio  
 **https://www.notion.so/Hong-Sung-Kyu-499cc549d99548b3a894d5110b59de8b**
 
 <!--
