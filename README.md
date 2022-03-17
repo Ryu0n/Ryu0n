@@ -1,5 +1,3 @@
-### ⚡ Run for AI Expert in Vision.
-
 * Name  
 **Hong Sung Kyu**
 
