@@ -1,21 +1,14 @@
-* Name  
-**Hong Sung Kyu**
+# Data Scientist in NLP
+- https://www.notion.so/Hong-Sung-Kyu-6b87c2067bfd4257a99f45db9ad82fdc  
+- https://dev-ryuon.tistory.com/
 
-* Education  
-**HKNU (Han Kyung National Univesity) : Computer Engineering**  
-**Kookmin University Graduate School of Software Technology : Artifical Intelligence**  
+# Language  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/>  
 
-<!--
-**Ryu0n/Ryu0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Framework  
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/><img src="https://img.shields.io/badge/PyQT-41CD52?style=flat-square&logo=qgis&logoColor=white"/><img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/><img src="https://img.shields.io/badge/Unity3d-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Research  
+- Analysing classification performance of GAF(Gramian Angular Field), MTF(Markov Transition Field), RP(Recurrence Plot), STFT(Short-Time Fourier Transform) - Analysing classification performance of CNN using self-attention matrix (feat.nscm)  
+- Transformer based models (e.g. BERT, SBERT, CRF, ELECTRA, ..)
+- GAN based models (e.g. CGAN, GFPGAN, ...)
