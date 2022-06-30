@@ -12,4 +12,4 @@
 - Analysing classification performance of GAF(Gramian Angular Field), MTF(Markov Transition Field), RP(Recurrence Plot), STFT(Short-Time Fourier Transform) 
 - Analysing classification performance of CNN using self-attention matrix (feat.nscm)  
 - Transformer based models (e.g. BERT, SBERT, CRF, ELECTRA, ..)
-- GAN based models (e.g. CGAN, GFPGAN, ...)
+- GAN based models (e.g. CGAN, GFPGAN, CLIP, ...)
